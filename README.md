@@ -188,3 +188,9 @@ Overall, file management is a critical component of an operating system as it en
 17. Change access directory
 
   <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080716056911417434/image.png" width="500px">
+
+18. Change Permission of dir Ujian1 to 440 and Ujia2 to 440
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080717091352612955/image.png" width="500px">
+
+19. Done
