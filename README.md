@@ -116,3 +116,75 @@ There are several types of file management systems, including:
 We have covered various aspects of file management, including the functions of file management, types of file management, file system architecture, and the advantages and disadvantages of different file system architectures such as tree-structured directory and acyclic-graph directory. We have also discussed the differences between FAT and NTFS file systems and their classification based on features such as maximum file size, maximum volume size, file system journaling, file compression, encryption, and access control.
 
 Overall, file management is a critical component of an operating system as it enables users to organize and manage their data and programs efficiently. The choice of file system architecture depends on specific needs and requirements, such as scalability, access control, security, and performance. By understanding the different types of file management and file system architectures, users can make informed decisions on how to best manage their files and directories.
+
+<hr>
+
+## Ubuntu File System Exercise
+
+1. Create Dir
+
+   <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080705495557472386/image.png" width="500px">
+   <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080706066234474506/image.png" width="500px">
+2. Create File
+   
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080707473889050644/image.png" width="500px">
+
+3. Write a File
+
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080707858146000917/image.png" width="500px">
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080707912638410763/image.png" width="500px">
+
+4. Write File With Echo Command
+  
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080708438994210896/image.png" width="500px">
+5. Read File With Cat
+   
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080708549421838417/image.png" width="500px">
+
+6. Delete File and DIr
+   
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080709182967255151/image.png" width="500px">
+
+7. Search File by name
+   
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080709555945754766/image.png" width="500px">
+
+8. Truncate File
+   
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080710229139935293/image.png" width="500px">
+
+9.  Copy file to another dir
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080710660117241856/image.png" width="500px">
+
+10. Move file to other dir
+
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080710972387368970/image.png" width="500px">
+
+11. Login with "sudo"
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080711366643556403/image.png" width="500px">
+
+12. Changing permission file
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080711871251877898/image.png" width="500px">
+
+13. Transfer permission to another user
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080712402582118410/image.png" width="500px">
+
+14. Create user1 and user2
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080712874089000981/image.png" width="500px">
+
+15. Login user1 and create 3 file with 100 bytes size
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080713570301526036/image.png" width="500px">
+
+16. Login User2 and create 3 file with 200 bytes size
+    
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080715001754566676/image.png" width="500px">
+
+17. Change access directory
+
+  <img src="https://cdn.discordapp.com/attachments/940456976234729542/1080716056911417434/image.png" width="500px">
